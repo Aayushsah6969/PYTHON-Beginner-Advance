@@ -1,0 +1,5 @@
+a=(1,6.6, False, 1,"aayush")
+print(a)
+print(a.count(1))
+print(a.count(344))
+print(a.index(False))
