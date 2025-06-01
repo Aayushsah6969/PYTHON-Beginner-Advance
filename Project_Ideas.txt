@@ -1,0 +1,6 @@
+Create a simple movie recommendation system using NumPy. Each movie should be represented by a vector of genre ratings (e.g., Action, Comedy, Romance, Horror, Sci-Fi). Implement cosine similarity to compare movies based on their feature vectors and recommend the top N most similar movies to a selected one.
+Requirements:
+Use NumPy arrays to store movie features.
+Define a function to calculate cosine similarity.
+Create a function to return top N similar movies to a given one.
+Use sample data of at least 5 movies and 5 genres.
