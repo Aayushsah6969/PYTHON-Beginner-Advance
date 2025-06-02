@@ -1,0 +1,13 @@
+Name,Subject,Marks,Age,Height,Weight
+Alice,Math,88,15,162,52
+Bob,Math,,16,170,65
+Charlie,Math,90,15,168,
+Alice,Science,92,,162,52
+Bob,Science,81,16,170,65
+Charlie,Science,95,15,168,60
+Alice,English,85,15,162,52
+Alice,English,85,15,162,52
+Bob,English,72,16,170,65
+Charlie,English,87,15,168,60
+Charlie,English,87,15,168,60
+David,Math,78,16,165,
