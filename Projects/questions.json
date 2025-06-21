@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "level": "easy",
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "options": [
+            "Paris",
+            "London",
+            "Rome",
+            "Berlin"
+        ]
+    },
+    {
+        "id": 2,
+        "level": "easy",
+        "question": "How many continents are there on Earth?",
+        "answer": "7",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "id": 3,
+        "level": "easy",
+        "question": "What color do you get by mixing red and white?",
+        "answer": "Pink",
+        "options": [
+            "Purple",
+            "Orange",
+            "Pink",
+            "Brown"
+        ]
+    },
+    {
+        "id": 4,
+        "level": "easy",
+        "question": "Which animal is known as 'man’s best friend'?",
+        "answer": "Dog",
+        "options": [
+            "Cat",
+            "Dog",
+            "Horse",
+            "Parrot"
+        ]
+    },
+    {
+        "id": 5,
+        "level": "easy",
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Mars",
+            "Saturn"
+        ]
+    },
+    {
+        "id": 6,
+        "level": "easy",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": "Shakespeare",
+        "options": [
+            "Shakespeare",
+            "Dickens",
+            "Austen",
+            "Orwell"
+        ]
+    },
+    {
+        "id": 7,
+        "level": "easy",
+        "question": "What is H2O commonly known as?",
+        "answer": "Water",
+        "options": [
+            "Hydrogen",
+            "Water",
+            "Salt",
+            "Oxygen"
+        ]
+    },
+    {
+        "id": 8,
+        "level": "easy",
+        "question": "Which ocean is the largest?",
+        "answer": "Pacific",
+        "options": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+        ]
+    },
+    {
+        "id": 9,
+        "level": "easy",
+        "question": "What is the boiling point of water at sea level in °C?",
+        "answer": "100",
+        "options": [
+            "90",
+            "100",
+            "110",
+            "120"
+        ]
+    },
+    {
+        "id": 10,
+        "level": "easy",
+        "question": "What is the main ingredient in sushi?",
+        "answer": "Rice",
+        "options": [
+            "Rice",
+            "Beef",
+            "Pasta",
+            "Chicken"
+        ]
+    },
+    {
+        "id": 11,
+        "level": "easy",
+        "question": "Which planet is known as the Red Planet?",
+        "answer": "Mars",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Mercury"
+        ]
+    },
+    {
+        "id": 12,
+        "level": "easy",
+        "question": "How many days are in a leap year?",
+        "answer": "366",
+        "options": [
+            "365",
+            "366",
+            "367",
+            "364"
+        ]
+    },
+    {
+        "id": 13,
+        "level": "easy",
+        "question": "What do bees produce?",
+        "answer": "Honey",
+        "options": [
+            "Milk",
+            "Honey",
+            "Silk",
+            "Wax"
+        ]
+    },
+    {
+        "id": 14,
+        "level": "easy",
+        "question": "How many letters are there in the English alphabet?",
+        "answer": "26",
+        "options": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ]
+    },
+    {
+        "id": 15,
+        "level": "easy",
+        "question": "What is the capital of Japan?",
+        "answer": "Tokyo",
+        "options": [
+            "Tokyo",
+            "Beijing",
+            "Seoul",
+            "Bangkok"
+        ]
+    },
+    {
+        "id": 16,
+        "level": "easy",
+        "question": "Which gas is essential for humans to breathe?",
+        "answer": "Oxygen",
+        "options": [
+            "Hydrogen",
+            "Nitrogen",
+            "Oxygen",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "id": 17,
+        "level": "easy",
+        "question": "How many seconds are there in a minute?",
+        "answer": "60",
+        "options": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ]
+    },
+    {
+        "id": 18,
+        "level": "easy",
+        "question": "What is 5 + 7?",
+        "answer": "12",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "id": 19,
+        "level": "easy",
+        "question": "Which country is known for the Eiffel Tower?",
+        "answer": "France",
+        "options": [
+            "Italy",
+            "Germany",
+            "France",
+            "Spain"
+        ]
+    },
+    {
+        "id": 20,
+        "level": "easy",
+        "question": "Which instrument has black and white keys?",
+        "answer": "Piano",
+        "options": [
+            "Guitar",
+            "Violin",
+            "Flute",
+            "Piano"
+        ]
+    },
+    {
+        "id": 21,
+        "level": "medium",
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ]
+    },
+    {
+        "id": 22,
+        "level": "medium",
+        "question": "What is the tallest mountain in the world?",
+        "answer": "Mount Everest",
+        "options": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Lhotse"
+        ]
+    },
+    {
+        "id": 23,
+        "level": "medium",
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron",
+        "options": [
+            "Lead",
+            "Gold",
+            "Iron",
+            "Silver"
+        ]
+    },
+    {
+        "id": 24,
+        "level": "medium",
+        "question": "What is the hardest natural substance?",
+        "answer": "Diamond",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Ruby"
+        ]
+    },
+    {
+        "id": 25,
+        "level": "medium",
+        "question": "Who discovered penicillin?",
+        "answer": "Alexander Fleming",
+        "options": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Thomas Edison"
+        ]
+    },
+    {
+        "id": 26,
+        "level": "medium",
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "answer": "France",
+        "options": [
+            "UK",
+            "Germany",
+            "France",
+            "Spain"
+        ]
+    },
+    {
+        "id": 27,
+        "level": "medium",
+        "question": "How many bones are in the adult human body?",
+        "answer": "206",
+        "options": [
+            "204",
+            "205",
+            "206",
+            "207"
+        ]
+    },
+    {
+        "id": 28,
+        "level": "medium",
+        "question": "What is the currency of Japan?",
+        "answer": "Yen",
+        "options": [
+            "Dollar",
+            "Euro",
+            "Yen",
+            "Won"
+        ]
+    },
+    {
+        "id": 29,
+        "level": "medium",
+        "question": "Which planet has the most moons?",
+        "answer": "Saturn",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus"
+        ]
+    },
+    {
+        "id": 30,
+        "level": "medium",
+        "question": "What is the largest desert in the world?",
+        "answer": "Sahara",
+        "options": [
+            "Gobi",
+            "Sahara",
+            "Kalahari",
+            "Arabian"
+        ]
+    },
+    {
+        "id": 31,
+        "level": "medium",
+        "question": "Who wrote '1984'?",
+        "answer": "George Orwell",
+        "options": [
+            "Aldous Huxley",
+            "George Orwell",
+            "J.K. Rowling",
+            "Ernest Hemingway"
+        ]
+    },
+    {
+        "id": 32,
+        "level": "medium",
+        "question": "What is the smallest prime number?",
+        "answer": "2",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "id": 33,
+        "level": "medium",
+        "question": "What year did World War II end?",
+        "answer": "1945",
+        "options": [
+            "1944",
+            "1945",
+            "1946",
+            "1947"
+        ]
+    },
+    {
+        "id": 34,
+        "level": "medium",
+        "question": "Which ocean lies on the east coast of the United States?",
+        "answer": "Atlantic",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ]
+    },
+    {
+        "id": 35,
+        "level": "medium",
+        "question": "What is the chemical formula for table salt?",
+        "answer": "NaCl",
+        "options": [
+            "NaCl",
+            "KCl",
+            "CaCl2",
+            "MgCl2"
+        ]
+    },
+    {
+        "id": 36,
+        "level": "medium",
+        "question": "Which scientist developed the theory of relativity?",
+        "answer": "Albert Einstein",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla",
+            "Galileo Galilei"
+        ]
+    },
+    {
+        "id": 37,
+        "level": "medium",
+        "question": "What is the longest river in the world?",
+        "answer": "Nile",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ]
+    },
+    {
+        "id": 38,
+        "level": "medium",
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "answer": "Brazil",
+        "options": [
+            "China",
+            "UK",
+            "Brazil",
+            "Canada"
+        ]
+    },
+    {
+        "id": 39,
+        "level": "medium",
+        "question": "What is the main language spoken in Brazil?",
+        "answer": "Portuguese",
+        "options": [
+            "Spanish",
+            "French",
+            "Portuguese",
+            "English"
+        ]
+    },
+    {
+        "id": 40,
+        "level": "medium",
+        "question": "In computing, what does 'CPU' stand for?",
+        "answer": "Central Processing Unit",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Print Unit",
+            "Computer Processing Unit"
+        ]
+    },
+    {
+        "id": 41,
+        "level": "hard",
+        "question": "Who is known as the 'Father of Geometry'?",
+        "answer": "Euclid",
+        "options": [
+            "Pythagoras",
+            "Euclid",
+            "Archimedes",
+            "Aristotle"
+        ]
+    },
+    {
+        "id": 42,
+        "level": "hard",
+        "question": "Which Nobel Prize did Marie Curie win twice?",
+        "answer": "Physics and Chemistry",
+        "options": [
+            "Peace and Literature",
+            "Physics and Chemistry",
+            "Economics and Peace",
+            "Chemistry and Physiology"
+        ]
+    },
+    {
+        "id": 43,
+        "level": "hard",
+        "question": "What is the capital of Mongolia?",
+        "answer": "Ulaanbaatar",
+        "options": [
+            "Astana",
+            "Ulaanbaatar",
+            "Tashkent",
+            "Bishkek"
+        ]
+    },
+    {
+        "id": 44,
+        "level": "hard",
+        "question": "Which year did the Berlin Wall fall?",
+        "answer": "1989",
+        "options": [
+            "1987",
+            "1988",
+            "1989",
+            "1990"
+        ]
+    },
+    {
+        "id": 45,
+        "level": "hard",
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Endoplasmic Reticulum"
+        ]
+    },
+    {
+        "id": 46,
+        "level": "hard",
+        "question": "Who composed the Four Seasons?",
+        "answer": "Vivaldi",
+        "options": [
+            "Beethoven",
+            "Mozart",
+            "Vivaldi",
+            "Bach"
+        ]
+    },
+    {
+        "id": 47,
+        "level": "hard",
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "answer": "Nitrogen",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Argon"
+        ]
+    },
+    {
+        "id": 48,
+        "level": "hard",
+        "question": "What is the speed of light in vacuum in m/s (approx)?",
+        "answer": "299792458",
+        "options": [
+            "300000000",
+            "299792458",
+            "150000000",
+            "299792000"
+        ]
+    },
+    {
+        "id": 49,
+        "level": "hard",
+        "question": "Who painted 'The Starry Night'?",
+        "answer": "Vincent van Gogh",
+        "options": [
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Edvard Munch",
+            "Paul Cézanne"
+        ]
+    },
+    {
+        "id": 50,
+        "level": "hard",
+        "question": "What is the central bank of the United States called?",
+        "answer": "Federal Reserve",
+        "options": [
+            "World Bank",
+            "Federal Reserve",
+            "International Monetary Fund",
+            "Bank of America"
+        ]
+    },
+    {
+        "id": 51,
+        "level": "easy",
+        "question": "What is the main ingredient in guacamole?",
+        "answer": "Avocado",
+        "options": [
+            "Tomato",
+            "Avocado",
+            "Banana",
+            "Pumpkin"
+        ]
+    },
+    {
+        "id": 52,
+        "level": "easy",
+        "question": "What is 10 × 10?",
+        "answer": "100",
+        "options": [
+            "90",
+            "100",
+            "110",
+            "120"
+        ]
+    },
+    {
+        "id": 53,
+        "level": "easy",
+        "question": "Which animal lives in a shell and moves slowly?",
+        "answer": "Turtle",
+        "options": [
+            "Turtle",
+            "Rabbit",
+            "Lion",
+            "Elephant"
+        ]
+    },
+    {
+        "id": 54,
+        "level": "easy",
+        "question": "What is the opposite of 'hot'?",
+        "answer": "Cold",
+        "options": [
+            "Warm",
+            "Cold",
+            "Cool",
+            "Chilly"
+        ]
+    },
+    {
+        "id": 55,
+        "level": "easy",
+        "question": "How many legs does a spider have?",
+        "answer": "8",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "id": 56,
+        "level": "easy",
+        "question": "What color is a ripe banana?",
+        "answer": "Yellow",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ]
+    },
+    {
+        "id": 57,
+        "level": "easy",
+        "question": "Which shape has four equal sides and four right angles?",
+        "answer": "Square",
+        "options": [
+            "Rectangle",
+            "Square",
+            "Circle",
+            "Triangle"
+        ]
+    },
+    {
+        "id": 58,
+        "level": "easy",
+        "question": "What do you call water when it freezes?",
+        "answer": "Ice",
+        "options": [
+            "Snow",
+            "Ice",
+            "Steam",
+            "Rain"
+        ]
+    },
+    {
+        "id": 59,
+        "level": "easy",
+        "question": "How many wheels does a bicycle have?",
+        "answer": "2",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "id": 60,
+        "level": "easy",
+        "question": "What is the plural of 'mouse'?",
+        "answer": "Mice",
+        "options": [
+            "Mouses",
+            "Mice",
+            "Mousees",
+            "Mices"
+        ]
+    },
+    {
+        "id": 61,
+        "level": "medium",
+        "question": "What is the chemical symbol for gold?",
+        "answer": "Au",
+        "options": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Pb"
+        ]
+    },
+    {
+        "id": 62,
+        "level": "medium",
+        "question": "Which country invented pizza?",
+        "answer": "Italy",
+        "options": [
+            "France",
+            "Greece",
+            "Italy",
+            "USA"
+        ]
+    },
+    {
+        "id": 63,
+        "level": "medium",
+        "question": "What is the largest mammal?",
+        "answer": "Blue Whale",
+        "options": [
+            "Elephant",
+            "Giraffe",
+            "Blue Whale",
+            "Hippopotamus"
+        ]
+    },
+    {
+        "id": 64,
+        "level": "medium",
+        "question": "Who is the author of 'Harry Potter' series?",
+        "answer": "J.K. Rowling",
+        "options": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "C.S. Lewis",
+            "Roald Dahl"
+        ]
+    },
+    {
+        "id": 65,
+        "level": "medium",
+        "question": "What year did the Titanic sink?",
+        "answer": "1912",
+        "options": [
+            "1905",
+            "1912",
+            "1915",
+            "1920"
+        ]
+    },
+    {
+        "id": 66,
+        "level": "medium",
+        "question": "Which planet is closest to the sun?",
+        "answer": "Mercury",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ]
+    },
+    {
+        "id": 67,
+        "level": "medium",
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": "Japan",
+        "options": [
+            "China",
+            "Korea",
+            "Japan",
+            "Thailand"
+        ]
+    },
+    {
+        "id": 68,
+        "level": "medium",
+        "question": "What does DNA stand for?",
+        "answer": "Deoxyribonucleic Acid",
+        "options": [
+            "Deoxyribonucleic Acid",
+            "Ribonucleic Acid",
+            "Deoxyribonucleic Atom",
+            "None"
+        ]
+    },
+    {
+        "id": 69,
+        "level": "medium",
+        "question": "Which is the smallest continent by land area?",
+        "answer": "Australia",
+        "options": [
+            "Europe",
+            "Antarctica",
+            "Australia",
+            "South America"
+        ]
+    },
+    {
+        "id": 70,
+        "level": "medium",
+        "question": "What currency is used in the United Kingdom?",
+        "answer": "Pound",
+        "options": [
+            "Euro",
+            "Pound",
+            "Dollar",
+            "Franc"
+        ]
+    },
+    {
+        "id": 71,
+        "level": "hard",
+        "question": "Who was the first female Prime Minister of the UK?",
+        "answer": "Margaret Thatcher",
+        "options": [
+            "Theresa May",
+            "Margaret Thatcher",
+            "Angela Merkel",
+            "Indira Gandhi"
+        ]
+    },
+    {
+        "id": 72,
+        "level": "hard",
+        "question": "What is the longest bone in the human body?",
+        "answer": "Femur",
+        "options": [
+            "Tibia",
+            "Humerus",
+            "Femur",
+            "Fibula"
+        ]
+    },
+    {
+        "id": 73,
+        "level": "hard",
+        "question": "Which African country was formerly known as Abyssinia?",
+        "answer": "Ethiopia",
+        "options": [
+            "Somalia",
+            "Ethiopia",
+            "Egypt",
+            "Kenya"
+        ]
+    },
+    {
+        "id": 74,
+        "level": "hard",
+        "question": "What is the chemical symbol for table sugar (sucrose)?",
+        "answer": "C12H22O11",
+        "options": [
+            "C6H12O6",
+            "C12H22O11",
+            "CH3COOH",
+            "NaCl"
+        ]
+    },
+    {
+        "id": 75,
+        "level": "hard",
+        "question": "Which philosopher wrote 'The Republic'?",
+        "answer": "Plato",
+        "options": [
+            "Aristotle",
+            "Plato",
+            "Socrates",
+            "Confucius"
+        ]
+    },
+    {
+        "id": 76,
+        "level": "hard",
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington",
+        "options": [
+            "Auckland",
+            "Wellington",
+            "Christchurch",
+            "Hamilton"
+        ]
+    },
+    {
+        "id": 77,
+        "level": "hard",
+        "question": "Who developed the first successful polio vaccine?",
+        "answer": "Jonas Salk",
+        "options": [
+            "Alexander Fleming",
+            "Jonas Salk",
+            "Louis Pasteur",
+            "Edward Jenner"
+        ]
+    },
+    {
+        "id": 78,
+        "level": "hard",
+        "question": "What is the rarest blood type?",
+        "answer": "AB negative",
+        "options": [
+            "O positive",
+            "A positive",
+            "B negative",
+            "AB negative"
+        ]
+    },
+    {
+        "id": 79,
+        "level": "hard",
+        "question": "Which treaty ended World War I?",
+        "answer": "Treaty of Versailles",
+        "options": [
+            "Treaty of Paris",
+            "Treaty of Versailles",
+            "Treaty of Ghent",
+            "Treaty of Tordesillas"
+        ]
+    },
+    {
+        "id": 80,
+        "level": "hard",
+        "question": "What is the largest volcano in the solar system?",
+        "answer": "Olympus Mons",
+        "options": [
+            "Mauna Loa",
+            "Mount Etna",
+            "Olympus Mons",
+            "Mount Vesuvius"
+        ]
+    },
+    {
+        "id": 81,
+        "level": "easy",
+        "question": "What fruit is famously yellow and curved?",
+        "answer": "Banana",
+        "options": [
+            "Apple",
+            "Banana",
+            "Cherry",
+            "Grape"
+        ]
+    },
+    {
+        "id": 82,
+        "level": "easy",
+        "question": "Which insect is known for making honeycombs?",
+        "answer": "Bee",
+        "options": [
+            "Ant",
+            "Fly",
+            "Bee",
+            "Butterfly"
+        ]
+    },
+    {
+        "id": 83,
+        "level": "easy",
+        "question": "What do you call frozen rain drops?",
+        "answer": "Sleet",
+        "options": [
+            "Hail",
+            "Sleet",
+            "Snow",
+            "Ice"
+        ]
+    },
+    {
+        "id": 84,
+        "level": "easy",
+        "question": "What do you breathe out?",
+        "answer": "Carbon Dioxide",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+        ]
+    },
+    {
+        "id": 85,
+        "level": "easy",
+        "question": "Which month has 28 days?",
+        "answer": "All of them",
+        "options": [
+            "February",
+            "June",
+            "All of them",
+            "December"
+        ]
+    },
+    {
+        "id": 86,
+        "level": "easy",
+        "question": "How many hearts does an octopus have?",
+        "answer": "3",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "id": 87,
+        "level": "easy",
+        "question": "What color are emeralds?",
+        "answer": "Green",
+        "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Yellow"
+        ]
+    },
+    {
+        "id": 88,
+        "level": "easy",
+        "question": "Which planet is famous for its rings?",
+        "answer": "Saturn",
+        "options": [
+            "Mars",
+            "Saturn",
+            "Jupiter",
+            "Uranus"
+        ]
+    },
+    {
+        "id": 89,
+        "level": "easy",
+        "question": "Which day comes after Friday?",
+        "answer": "Saturday",
+        "options": [
+            "Thursday",
+            "Saturday",
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "id": 90,
+        "level": "easy",
+        "question": "What is 7 - 3?",
+        "answer": "4",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "id": 91,
+        "level": "medium",
+        "question": "Which metal has the highest electrical conductivity?",
+        "answer": "Silver",
+        "options": [
+            "Copper",
+            "Gold",
+            "Silver",
+            "Aluminum"
+        ]
+    },
+    {
+        "id": 92,
+        "level": "medium",
+        "question": "What is the main language spoken in Egypt?",
+        "answer": "Arabic",
+        "options": [
+            "Arabic",
+            "English",
+            "French",
+            "Hebrew"
+        ]
+    },
+    {
+        "id": 93,
+        "level": "medium",
+        "question": "In which year did man first walk on the moon?",
+        "answer": "1969",
+        "options": [
+            "1965",
+            "1969",
+            "1971",
+            "1973"
+        ]
+    },
+    {
+        "id": 94,
+        "level": "medium",
+        "question": "Which US state is known as the Sunshine State?",
+        "answer": "Florida",
+        "options": [
+            "California",
+            "Texas",
+            "Florida",
+            "Arizona"
+        ]
+    },
+    {
+        "id": 95,
+        "level": "medium",
+        "question": "What is the smallest unit of life?",
+        "answer": "Cell",
+        "options": [
+            "Atom",
+            "Molecule",
+            "Cell",
+            "Organ"
+        ]
+    },
+    {
+        "id": 96,
+        "level": "medium",
+        "question": "Who wrote 'The Odyssey'?",
+        "answer": "Homer",
+        "options": [
+            "Virgil",
+            "Homer",
+            "Dante",
+            "Shakespeare"
+        ]
+    },
+    {
+        "id": 97,
+        "level": "hard",
+        "question": "Which scientist proposed the laws of planetary motion?",
+        "answer": "Kepler",
+        "options": [
+            "Newton",
+            "Kepler",
+            "Copernicus",
+            "Galileo"
+        ]
+    },
+    {
+        "id": 98,
+        "level": "hard",
+        "question": "What is the capital of Bhutan?",
+        "answer": "Thimphu",
+        "options": [
+            "Kathmandu",
+            "Thimphu",
+            "Dhaka",
+            "Islamabad"
+        ]
+    },
+    {
+        "id": 99,
+        "level": "hard",
+        "question": "Which mathematician is known for the Fibonacci sequence?",
+        "answer": "Fibonacci",
+        "options": [
+            "Euclid",
+            "Pascal",
+            "Fibonacci",
+            "Archimedes"
+        ]
+    },
+    {
+        "id": 100,
+        "level": "hard",
+        "question": "Who is credited with creating the first programmable computer?",
+        "answer": "Charles Babbage",
+        "options": [
+            "Alan Turing",
+            "Konrad Zuse",
+            "Charles Babbage",
+            "John von Neumann"
+        ]
+    }
+]
