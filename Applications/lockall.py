@@ -6,7 +6,7 @@ from threading import Lock
 
 # 🔐 Input password
 pwd = input("Enter password to set for all PDFs: ")
-base_dir = Path("/home/blackperl/Downloads/desifakes.com")  # Set your folder
+base_dir = Path("parent")  # Set your folder
 lock = Lock()
 
 def lock_pdf(pdf_path: Path):
