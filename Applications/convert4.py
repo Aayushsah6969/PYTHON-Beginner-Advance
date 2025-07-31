@@ -85,4 +85,4 @@ def convert_all_zips_in_directory(directory_path, max_workers=4, keep_zip=False)
 
 
 # === USAGE ===
-convert_all_zips_in_directory("/home/blackperl/Downloads/desifakes.com", max_workers=4, keep_zip=False)
+convert_all_zips_in_directory("parent", max_workers=4, keep_zip=False)
